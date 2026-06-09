@@ -1,16 +1,251 @@
-CGPA,Internships,Skills,Placed
-8.0,1,1,1
-7.5,0,1,1
-6.0,0,0,0
-9.0,1,1,1
-5.5,0,0,0
-8.5,1,1,1
-7.0,0,0,0
-9.5,1,1,1
-6.5,0,1,0
-8.2,1,1,1
-7.8,1,0,1
-5.8,0,0,0
-8.7,1,1,1
-6.9,0,1,0
-7.2,1,1,1
+CGPA,Skills,Certificates,Placed
+8.25,"Machine Learning, Node.js, Django",Android App Dev Intern,1
+7.31,"React, Node.js",None,1
+6.36,"Spring Boot, Git, Node.js, Flutter",None,0
+5.53,"Git, Deep Learning, Machine Learning, SQL, React",None,0
+5.9,Docker,None,0
+8.64,"AWS, C++, Spring Boot, Data Science, Docker",AWS Certified Solutions Architect,0
+8.82,"Node.js, JavaScript, AWS, Machine Learning, Flutter, Deep Learning, Git, HTML/CSS","Coursera Machine Learning Certificate, Data Science Intern at Infosys",1
+8.44,"HTML/CSS, Spring Boot, Node.js","Data Science Intern at Infosys, Android App Dev Intern",1
+6.89,"Java, Node.js, PostgreSQL, Deep Learning, AWS",Udemy Full Stack Boot Camp Certificate,0
+6.85,"AWS, Flutter, SQL, Machine Learning, Spring Boot","Udemy Full Stack Boot Camp Certificate, Microsoft Certified Azure Fundamentals",0
+7.22,"SQL, Swift, Kotlin",Google Software Engineer Intern,1
+6.19,"PostgreSQL, C++, AWS, Spring Boot",None,0
+6.58,"Python, JavaScript, Spring Boot, Machine Learning",None,0
+6.76,"Python, Machine Learning",None,0
+7.68,"Data Science, Swift, React",Android App Dev Intern,0
+9.47,"PostgreSQL, Deep Learning, Kotlin, Python, JavaScript, Flutter, HTML/CSS, AWS",Coursera Machine Learning Certificate,0
+9.57,"Kotlin, C++, Spring Boot, SQL","Android App Dev Intern, Web Developer Intern at TCS",1
+9.25,"React, Spring Boot, PostgreSQL, Data Science, AWS",None,0
+7.38,"JavaScript, Node.js, Django, C++",Udemy Full Stack Boot Camp Certificate,1
+5.81,"Node.js, C++, Java, Deep Learning",Data Science Intern at Infosys,0
+6.42,"Django, PostgreSQL",None,0
+8.97,"JavaScript, Git, Docker, Django",Google Software Engineer Intern,1
+8.63,"JavaScript, Node.js, React, Spring Boot, Flutter, C++, Swift","Coursera Machine Learning Certificate, Google Software Engineer Intern",1
+9.2,"Java, Spring Boot, Python, C++, Node.js, Swift","Coursera Machine Learning Certificate, Microsoft Certified Azure Fundamentals",0
+6.21,AWS,"Data Science Intern at Infosys, Microsoft Certified Azure Fundamentals",0
+8.64,"Kotlin, SQL, React, Data Science, Spring Boot, Python, Swift",None,1
+6.85,"Kotlin, Swift",None,0
+5.74,"HTML/CSS, C++, Django",None,0
+6.02,"Node.js, Django, Java, C++, Git",None,0
+6.86,"Deep Learning, Node.js, Machine Learning","Oracle Java SE Certified, React Developer Intern",0
+9.52,"PostgreSQL, Django, JavaScript",Android App Dev Intern,1
+9.51,"Node.js, Docker, Data Science, HTML/CSS, Flutter, Git, Machine Learning, Django",Android App Dev Intern,1
+8.35,"SQL, Machine Learning, JavaScript, Spring Boot, PostgreSQL, Kotlin, Flutter","Coursera Machine Learning Certificate, Data Science Intern at Infosys",1
+6.58,"Java, C++, Git, Machine Learning, PostgreSQL, Python",Data Science Intern at Infosys,1
+7.4,"Spring Boot, Python, JavaScript, C++, SQL",None,0
+8.0,"SQL, Java, Data Science",React Developer Intern,1
+6.57,"Spring Boot, Git",None,0
+9.48,"HTML/CSS, PostgreSQL, Git, Python","Microsoft Certified Azure Fundamentals, Coursera Machine Learning Certificate",1
+8.89,"Java, Kotlin, Node.js","React Developer Intern, Data Science Intern at Infosys",0
+9.25,"React, AWS, Deep Learning, Machine Learning",None,0
+6.7,"AWS, Spring Boot, Deep Learning, Python, JavaScript",None,1
+8.0,"Java, JavaScript, Git, Docker, Deep Learning, React, Data Science",None,1
+9.37,"Java, Git, Python, Swift",None,0
+8.59,"React, Docker, Git, C++, Deep Learning, Data Science",Data Science Intern at Infosys,1
+8.37,"Data Science, Spring Boot, SQL, React","Web Developer Intern at TCS, Data Science Intern at Infosys",1
+9.09,"React, Git, Deep Learning, Flutter, Swift",Android App Dev Intern,1
+9.38,"HTML/CSS, C++, Data Science, Swift, Deep Learning, Java, Git",None,1
+6.83,"SQL, Python, Java, Node.js, Kotlin",None,0
+7.46,"Django, React, AWS, Kotlin, Spring Boot, JavaScript",Google Software Engineer Intern,0
+6.44,"Swift, Flutter, Java, Node.js, JavaScript",None,0
+8.37,"PostgreSQL, Deep Learning, Flutter, Swift, Git, Kotlin, Machine Learning",Oracle Java SE Certified,1
+8.73,"Machine Learning, Swift, Kotlin, Node.js, PostgreSQL, Django, Java",Data Science Intern at Infosys,1
+9.34,"SQL, Node.js, AWS, PostgreSQL",Microsoft Certified Azure Fundamentals,1
+7.83,"React, Git, AWS, Python",None,0
+7.14,"Docker, Data Science",None,0
+9.6,"Spring Boot, Node.js, Kotlin, Django, Machine Learning",Microsoft Certified Azure Fundamentals,1
+8.42,"HTML/CSS, Flutter, SQL, Python, AWS",Google Software Engineer Intern,0
+6.08,"Java, Machine Learning, AWS",None,0
+6.95,"Machine Learning, Git, PostgreSQL, C++, Kotlin, Python",None,1
+9.59,"C++, Java, Python, Node.js",Udemy Full Stack Boot Camp Certificate,1
+6.04,"Django, React, Flutter, Machine Learning",None,1
+8.11,"JavaScript, HTML/CSS, Data Science, PostgreSQL, Python, Flutter","Microsoft Certified Azure Fundamentals, Coursera Machine Learning Certificate",1
+8.47,"JavaScript, Data Science, PostgreSQL, Java, Docker, Machine Learning","Google Software Engineer Intern, Android App Dev Intern",1
+5.55,"Kotlin, JavaScript, Git",None,0
+9.06,"Git, HTML/CSS, Swift, Machine Learning, Kotlin, Node.js, React",None,0
+6.89,"C++, Machine Learning, Flutter","Udemy Full Stack Boot Camp Certificate, Microsoft Certified Azure Fundamentals",1
+7.63,"Kotlin, React, Docker, Machine Learning","Android App Dev Intern, AWS Certified Solutions Architect",1
+6.32,"Git, Kotlin",None,0
+7.55,"Flutter, Python, C++, Data Science, Node.js",Data Science Intern at Infosys,0
+7.09,"Docker, Git, Spring Boot, Deep Learning","Data Science Intern at Infosys, Udemy Full Stack Boot Camp Certificate",1
+6.02,"JavaScript, Spring Boot",None,0
+6.32,"Machine Learning, Django, Swift, Data Science, JavaScript",None,0
+7.05,"Spring Boot, SQL, Machine Learning",Android App Dev Intern,1
+9.56,"Kotlin, JavaScript, Python, Data Science, PostgreSQL, Node.js, Flutter",Data Science Intern at Infosys,0
+7.55,"AWS, Kotlin, C++, Java, SQL, Spring Boot",None,0
+5.87,"Spring Boot, Git",None,0
+6.47,"Flutter, PostgreSQL, Data Science, Git",Udemy Full Stack Boot Camp Certificate,0
+5.93,"React, Machine Learning, C++, HTML/CSS, Node.js",Web Developer Intern at TCS,1
+7.44,"Data Science, Java, Node.js, PostgreSQL, Swift",None,0
+8.46,"Django, React, Git, JavaScript, Node.js, Deep Learning, C++",None,0
+5.81,"Data Science, Django",None,0
+7.52,"AWS, Machine Learning, Swift",None,0
+8.07,"Deep Learning, Machine Learning, Python, C++, Node.js, PostgreSQL, Git",None,0
+5.59,"Machine Learning, Django, Java, HTML/CSS",None,0
+9.44,"Django, Git, Kotlin, C++","React Developer Intern, Udemy Full Stack Boot Camp Certificate",1
+9.19,"Kotlin, Data Science, AWS, Java, Flutter","React Developer Intern, Google Software Engineer Intern",0
+7.24,"Python, Spring Boot, Flutter, Git","Udemy Full Stack Boot Camp Certificate, Oracle Java SE Certified",0
+8.77,"Spring Boot, SQL, Data Science, Flutter",None,0
+5.62,"Node.js, HTML/CSS, Data Science, Python",None,1
+9.77,"Flutter, JavaScript, SQL, Kotlin, Data Science, Machine Learning, Docker, Spring Boot","Oracle Java SE Certified, Coursera Machine Learning Certificate",1
+6.12,"PostgreSQL, Swift",None,0
+5.8,"Git, Deep Learning, Swift, Machine Learning, Python",None,0
+8.02,"Kotlin, SQL, Flutter, PostgreSQL, Docker, HTML/CSS, Machine Learning",None,1
+9.51,"Node.js, Django, AWS, PostgreSQL, Git, Python, HTML/CSS, Docker","Microsoft Certified Azure Fundamentals, Web Developer Intern at TCS",1
+5.66,"Django, Deep Learning, JavaScript",None,0
+7.76,"SQL, Git, PostgreSQL, C++","React Developer Intern, Microsoft Certified Azure Fundamentals",1
+9.16,"Spring Boot, AWS, Deep Learning, Kotlin, Java, Data Science, Swift","Coursera Machine Learning Certificate, Google Software Engineer Intern",1
+5.92,"JavaScript, Flutter, HTML/CSS, Data Science",None,1
+8.92,"Docker, Git, SQL, Node.js",Web Developer Intern at TCS,1
+8.12,"Node.js, Kotlin, SQL, PostgreSQL","Oracle Java SE Certified, Data Science Intern at Infosys",1
+9.37,"Data Science, Spring Boot, HTML/CSS, C++, Flutter, Django",None,1
+9.64,"Flutter, Data Science, React, AWS, Kotlin, Java, JavaScript","Udemy Full Stack Boot Camp Certificate, Data Science Intern at Infosys",0
+6.77,"AWS, Machine Learning, Python, Java, Kotlin, Git",None,1
+8.94,"Docker, Node.js, React, Machine Learning, SQL, Deep Learning",Data Science Intern at Infosys,0
+5.64,"SQL, C++",None,0
+7.29,"Spring Boot, Docker, Swift",None,1
+6.21,"Kotlin, Data Science, Deep Learning, JavaScript, Flutter, Java",Microsoft Certified Azure Fundamentals,0
+8.96,"AWS, Python, Machine Learning, JavaScript, Flutter","Udemy Full Stack Boot Camp Certificate, Microsoft Certified Azure Fundamentals",0
+9.54,"Node.js, Kotlin, Python, Deep Learning",None,1
+5.77,"Data Science, Git, JavaScript, SQL, Java",None,0
+7.62,"Spring Boot, SQL","Android App Dev Intern, Microsoft Certified Azure Fundamentals",0
+8.62,"JavaScript, Kotlin, Git, Machine Learning, Java, Docker, HTML/CSS","Coursera Machine Learning Certificate, React Developer Intern",1
+8.45,"Docker, Java, AWS, Machine Learning, React",None,0
+9.04,"React, Python, Java",None,1
+6.04,"C++, Spring Boot, React, Django",None,0
+8.83,"PostgreSQL, Python, Machine Learning, SQL, Swift, Spring Boot, Kotlin",None,1
+9.23,"Docker, Node.js, Deep Learning, Python",Web Developer Intern at TCS,0
+7.76,"Kotlin, Flutter, Docker, Swift, JavaScript, Node.js",Android App Dev Intern,1
+8.27,"Kotlin, AWS, Git",None,0
+9.41,"C++, Deep Learning, SQL, PostgreSQL","Microsoft Certified Azure Fundamentals, Android App Dev Intern",1
+7.67,"JavaScript, Spring Boot, React, Git",Microsoft Certified Azure Fundamentals,1
+7.45,"JavaScript, Deep Learning, Git, Django",None,0
+6.16,"C++, PostgreSQL, Django, Spring Boot, Git, Java",None,0
+6.06,Spring Boot,None,0
+7.27,"Git, Java, Data Science, Spring Boot, Docker, Django",None,1
+8.32,"JavaScript, Docker, Spring Boot, Django","Udemy Full Stack Boot Camp Certificate, Coursera Machine Learning Certificate",0
+9.13,"PostgreSQL, Spring Boot, Python, Machine Learning, Django, C++, SQL, Docker","React Developer Intern, AWS Certified Solutions Architect",1
+6.12,"C++, SQL, Python, PostgreSQL",None,0
+7.31,"Docker, Data Science, Deep Learning",None,0
+5.87,HTML/CSS,None,1
+5.85,"Git, Kotlin, Flutter",None,0
+7.7,"JavaScript, Data Science, Kotlin, Swift",None,1
+7.2,"Python, React, Data Science, Django, SQL",None,1
+6.02,"Git, HTML/CSS, SQL",None,0
+7.65,"Docker, C++, AWS, Java, Git, Python",React Developer Intern,0
+7.97,"Git, Data Science, JavaScript, AWS, Python, HTML/CSS","React Developer Intern, Google Software Engineer Intern",1
+5.96,"AWS, Swift, C++",None,0
+6.96,"HTML/CSS, C++, Swift",None,0
+6.33,"Docker, SQL, Node.js, JavaScript, Django",Udemy Full Stack Boot Camp Certificate,1
+8.76,"Kotlin, Flutter, Django","React Developer Intern, Web Developer Intern at TCS",1
+7.52,"Machine Learning, Django, Java, Docker, C++","AWS Certified Solutions Architect, Udemy Full Stack Boot Camp Certificate",1
+6.73,"C++, Swift, AWS, Flutter, Java",None,0
+8.3,"Kotlin, Swift, SQL, Java","Google Software Engineer Intern, Android App Dev Intern",1
+5.67,"Flutter, Swift, Django, HTML/CSS",None,0
+7.17,"PostgreSQL, Java, Deep Learning, C++, Spring Boot, Django",None,0
+6.58,"PostgreSQL, SQL, Deep Learning, C++, Django, Flutter","Web Developer Intern at TCS, Google Software Engineer Intern",1
+7.12,"SQL, Swift, C++, Git, Docker, Python",Coursera Machine Learning Certificate,1
+8.79,"SQL, PostgreSQL, C++, Data Science",None,1
+8.81,"Swift, Java, Deep Learning, SQL, AWS, C++, Flutter",Oracle Java SE Certified,1
+7.07,"Flutter, Data Science, PostgreSQL, Node.js, Swift","Coursera Machine Learning Certificate, React Developer Intern",0
+7.95,"Data Science, AWS, Swift, Spring Boot",Coursera Machine Learning Certificate,0
+6.1,"Kotlin, Docker",None,1
+9.14,"Data Science, C++, HTML/CSS, Machine Learning, Flutter, Kotlin, Swift","Google Software Engineer Intern, Coursera Machine Learning Certificate",1
+9.3,"Git, Java, AWS, Swift, Docker, JavaScript, React, Django",React Developer Intern,0
+9.11,"SQL, PostgreSQL, Java, Data Science, Kotlin, Docker",None,0
+7.52,"C++, Python, Machine Learning, React, SQL",None,0
+7.77,"Data Science, Node.js, PostgreSQL",Microsoft Certified Azure Fundamentals,0
+8.18,"Kotlin, Spring Boot, Python",Web Developer Intern at TCS,1
+5.51,"Django, Git",Android App Dev Intern,0
+5.79,"Swift, PostgreSQL, Spring Boot","AWS Certified Solutions Architect, Microsoft Certified Azure Fundamentals",0
+6.59,C++,Udemy Full Stack Boot Camp Certificate,0
+6.93,"Spring Boot, Deep Learning",None,1
+8.85,"Kotlin, HTML/CSS, SQL, C++, Flutter",AWS Certified Solutions Architect,0
+9.31,"Data Science, Swift, AWS, Kotlin, Machine Learning",Data Science Intern at Infosys,1
+8.86,"Deep Learning, Machine Learning, JavaScript, Docker, Git, Flutter, React","React Developer Intern, Web Developer Intern at TCS",1
+7.64,"Swift, Machine Learning, C++, Git, Spring Boot, React, Data Science",None,1
+6.76,"Deep Learning, Data Science","Web Developer Intern at TCS, Oracle Java SE Certified",1
+5.68,"Docker, Git, Machine Learning, Java, C++",None,0
+7.71,"HTML/CSS, Python, SQL, Flutter, Java, C++","React Developer Intern, Microsoft Certified Azure Fundamentals",0
+5.64,Flutter,None,0
+8.78,"Swift, Docker, AWS, Deep Learning, Machine Learning, JavaScript",None,1
+6.3,"Spring Boot, JavaScript, Machine Learning, PostgreSQL",None,0
+8.13,"Kotlin, React, JavaScript, SQL, C++, Node.js","Google Software Engineer Intern, React Developer Intern",1
+8.55,"Data Science, PostgreSQL, HTML/CSS, Spring Boot, Docker",Coursera Machine Learning Certificate,0
+6.52,"Docker, Spring Boot, PostgreSQL, Flutter",None,0
+8.13,"Data Science, AWS, Kotlin","Udemy Full Stack Boot Camp Certificate, Google Software Engineer Intern",1
+6.86,"Flutter, Swift",Web Developer Intern at TCS,0
+9.42,"JavaScript, Swift, SQL, Data Science","Coursera Machine Learning Certificate, React Developer Intern",0
+7.73,"C++, Machine Learning, React",None,0
+6.04,"Spring Boot, C++",None,0
+9.55,"PostgreSQL, Deep Learning, Java, Python","Coursera Machine Learning Certificate, Microsoft Certified Azure Fundamentals",1
+5.63,"Spring Boot, Data Science, Django, Kotlin, Node.js",None,0
+6.78,"Java, HTML/CSS",None,0
+6.38,"Deep Learning, PostgreSQL, Docker, AWS","Android App Dev Intern, Udemy Full Stack Boot Camp Certificate",1
+6.54,"Flutter, Node.js",Data Science Intern at Infosys,0
+9.22,"HTML/CSS, Deep Learning, Django, React, PostgreSQL","Oracle Java SE Certified, Data Science Intern at Infosys",1
+5.89,"Flutter, Node.js, React",None,1
+6.71,"Kotlin, Data Science, Spring Boot, Python",None,0
+9.29,"AWS, Docker, Java, PostgreSQL, Spring Boot, Data Science, Machine Learning","Google Software Engineer Intern, Microsoft Certified Azure Fundamentals",1
+8.79,"PostgreSQL, JavaScript, SQL, Django","Android App Dev Intern, React Developer Intern",1
+6.36,"Swift, Java, Django, Spring Boot","Oracle Java SE Certified, Android App Dev Intern",1
+8.11,"Deep Learning, PostgreSQL, HTML/CSS, AWS, Data Science","Udemy Full Stack Boot Camp Certificate, Data Science Intern at Infosys",1
+5.57,"JavaScript, Git",None,0
+8.62,"Python, Kotlin, Machine Learning, Node.js, Java, Data Science","Web Developer Intern at TCS, Coursera Machine Learning Certificate",1
+9.58,"Python, Flutter, Deep Learning, Git",Microsoft Certified Azure Fundamentals,1
+8.13,"Java, SQL, Swift, React, Deep Learning",None,0
+7.12,"Flutter, Spring Boot, Deep Learning, Docker, Machine Learning, Data Science",None,0
+6.7,"Data Science, PostgreSQL, React",None,0
+7.56,"Machine Learning, Data Science, JavaScript, AWS, Swift",None,0
+8.96,"Data Science, C++, Docker, Flutter","Coursera Machine Learning Certificate, Udemy Full Stack Boot Camp Certificate",0
+6.67,"Machine Learning, SQL, JavaScript, Node.js",Coursera Machine Learning Certificate,1
+7.28,"JavaScript, SQL, Python, HTML/CSS, Git",None,0
+7.55,"Data Science, Deep Learning, PostgreSQL, Java, C++",None,1
+8.68,"Java, HTML/CSS, Git, Django, PostgreSQL, Spring Boot, React",None,1
+8.72,"Data Science, Java, Python, PostgreSQL, JavaScript, Flutter, HTML/CSS","Web Developer Intern at TCS, Android App Dev Intern",1
+6.33,"HTML/CSS, Flutter",None,0
+5.56,"Data Science, Django",None,0
+8.13,"AWS, Git, Swift, Deep Learning, C++, React",None,1
+6.1,"Node.js, Python, Machine Learning",None,0
+6.65,"Django, PostgreSQL, Python","Coursera Machine Learning Certificate, AWS Certified Solutions Architect",0
+7.5,"Swift, Data Science, JavaScript",None,0
+7.08,"SQL, Kotlin, PostgreSQL","Microsoft Certified Azure Fundamentals, Android App Dev Intern",0
+8.76,"React, Node.js, C++, Swift, Flutter, Machine Learning, Docker",AWS Certified Solutions Architect,0
+9.38,"Spring Boot, SQL, HTML/CSS, Deep Learning",None,1
+8.43,"Kotlin, C++, Swift, Flutter, Java, Node.js","Oracle Java SE Certified, AWS Certified Solutions Architect",1
+8.39,"Python, AWS, Machine Learning, PostgreSQL",None,0
+5.69,"C++, Spring Boot",None,0
+5.8,"Java, Data Science, Git, HTML/CSS, SQL",None,0
+8.28,"AWS, Flutter, PostgreSQL, Spring Boot, C++",None,0
+7.82,"Docker, JavaScript, HTML/CSS, AWS, SQL",None,1
+5.51,Data Science,None,0
+7.32,"Node.js, PostgreSQL, Flutter, Docker",Google Software Engineer Intern,1
+8.34,"Python, Node.js, React, C++, JavaScript, Data Science",Coursera Machine Learning Certificate,0
+7.23,"React, Java, SQL",None,0
+9.01,"Deep Learning, Django, PostgreSQL, Node.js, Data Science, Flutter, C++",None,1
+7.28,"Spring Boot, Django, HTML/CSS",None,0
+7.63,"AWS, Swift, Deep Learning, Git, Django, C++, SQL","Coursera Machine Learning Certificate, Udemy Full Stack Boot Camp Certificate",1
+8.54,"Java, Spring Boot, Git, Django, SQL, React, JavaScript","Google Software Engineer Intern, Oracle Java SE Certified",0
+5.9,"React, Java, Machine Learning, AWS",None,0
+9.26,"Django, Spring Boot, React, Kotlin","Data Science Intern at Infosys, AWS Certified Solutions Architect",1
+6.32,"Kotlin, Node.js, React, AWS, Django",None,0
+7.14,"Docker, Data Science, Machine Learning, PostgreSQL",None,0
+5.92,"Kotlin, Deep Learning, React, Docker, Django, Spring Boot",Web Developer Intern at TCS,1
+7.88,"Git, Data Science, SQL, React, Deep Learning",Oracle Java SE Certified,1
+9.56,"Kotlin, PostgreSQL, Flutter, HTML/CSS, Docker","Web Developer Intern at TCS, Android App Dev Intern",0
+9.62,"C++, Java, Python, Git, SQL, Swift",Web Developer Intern at TCS,1
+7.67,"PostgreSQL, Kotlin, Django, Python","AWS Certified Solutions Architect, Udemy Full Stack Boot Camp Certificate",1
+6.68,"Python, Swift, Git, HTML/CSS, JavaScript, Flutter",Coursera Machine Learning Certificate,1
+7.76,"Machine Learning, AWS, C++, Docker, Django, Node.js",Data Science Intern at Infosys,0
+9.15,"Java, C++, AWS, Spring Boot, Swift, Machine Learning",Web Developer Intern at TCS,1
+9.13,"Deep Learning, Django, JavaScript, Swift, Java, Spring Boot","Data Science Intern at Infosys, AWS Certified Solutions Architect",0
+8.44,"Spring Boot, Django, Java, HTML/CSS",None,1
+9.63,"AWS, C++, Data Science, HTML/CSS, Node.js, Spring Boot","Android App Dev Intern, React Developer Intern",1
+8.68,"C++, Swift, Docker, Java, JavaScript, React, Kotlin",None,1
+8.81,"AWS, Deep Learning, Python, Machine Learning, Flutter, Node.js, JavaScript, HTML/CSS","Microsoft Certified Azure Fundamentals, Web Developer Intern at TCS",1
+8.34,"PostgreSQL, Data Science, Node.js",None,1
+6.16,"SQL, AWS, Deep Learning, Docker, JavaScript","Oracle Java SE Certified, React Developer Intern",0
+5.94,Git,None,0
+7.25,"Docker, Spring Boot","Microsoft Certified Azure Fundamentals, AWS Certified Solutions Architect",1
+7.17,"Spring Boot, Node.js",None,1

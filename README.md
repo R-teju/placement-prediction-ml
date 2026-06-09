@@ -1,65 +1,48 @@
-# Placement Prediction System using Machine Learning
+# Advanced Placement Prediction Engine
 
-## 📌 Project Overview
+An advanced Machine Learning career prediction engine that forecasts student placement probability. It utilizes Scikit-Learn preprocessing pipelines, text-based feature extraction (NLP), and a premium glassmorphic Flask web interface.
 
-This project predicts whether a student will be placed or not using Machine Learning algorithms. The prediction is based on student academic and skill-related features.
+## 📌 Upgraded Features
 
-##  Features
+* **Natural Language Feature Extraction**: Accepts actual technical skills (e.g., `Python, SQL, React, AWS`) and certificate/internship names (e.g., `Google Developer Intern`, `AWS Cloud Practitioner`) instead of primitive binary flags.
+* **Robust ML Pipeline**: Implements Scikit-Learn `Pipeline` and `ColumnTransformer` to handle both numeric scales (`CGPA` via `StandardScaler`) and multi-label text tokenization (`Skills` & `Certificates` via custom-tokenized `TfidfVectorizer`).
+* **Model Serialization**: Automatically compares classifiers (Logistic Regression, Random Forest), selects the best-performing model using 5-fold cross-validation, and serializes the complete preprocessing + inference pipeline to `model.pkl`.
+* **Premium Web Dashboard**: Beautiful, dark-themed glassmorphism interface built with Vanilla HTML/CSS. Includes dynamic circular probability meters, input suggestions, and responsive controls.
+* **Interactive CLI Fallback**: Standard command-line script supports training, validation metrics output, and interactive terminal prediction.
 
-* Predicts student placement using ML
-* Compares multiple algorithms:
+## 🛠️ Technologies Used
 
-  * Logistic Regression
-  * K-Nearest Neighbors (KNN)
-  * Decision Tree
-* Selects the best performing model automatically
-* Takes real-time user input for prediction
+* Python 3
+* Scikit-Learn
+* Pandas & NumPy
+* Flask
+* Joblib
+* Vanilla HTML5 & CSS3 (Glassmorphism & HSL design system)
 
-## Technologies Used
+## 📁 Dataset & Preprocessing
 
-* Python
-* Pandas
-* Scikit-learn
-* VS Code
+The project utilizes `placement.csv` containing:
+1. **CGPA**: Academic performance score (continuous scale).
+2. **Skills**: Comma-separated technical skills.
+3. **Certificates**: Comma-separated certifications and internship titles.
+4. **Placed**: Placement outcome (binary target).
 
-##  Dataset Features
+## 🚀 How to Run
 
-* CGPA
-* Internships
-* Projects
-* Certifications
-* Skills
-* Placement Status
-
-##  How it Works
-
-1. Loads dataset from CSV file
-2. Splits data into training and testing sets
-3. Trains multiple machine learning models
-4. Compares model accuracy
-5. Selects best model
-6. Predicts placement based on user input
-
-## ▶How to Run
-
+### 1. Generate/Train & Predict (CLI)
+To run the ML training pipeline, generate validation metrics, and test via the terminal CLI:
 ```bash
 python placement_prediction.py
 ```
 
-## Example Output
-
+### 2. Run the Web Application
+To start the Flask-based career portal dashboard:
+```bash
+python app.py
 ```
-Best Model: KNN
-Accuracy: 90%
+Then navigate to `http://127.0.0.1:5000` in your web browser.
 
-Enter Student Details:
-Result: Student will be PLACED
-```
-
-## Project Purpose
-
-This project demonstrates practical implementation of machine learning for real-world prediction problems.
+---
 
 ## Author
-
 Ramapriya
